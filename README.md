@@ -1,1 +1,3 @@
 # 2016-Anita
+
+﻿Il progetto "Su il ripiano, su il morale!" è rivolto a persone costrette sulla sedia a rotelle che si ritrovano costretti ad assumere una postura inadeguata, piegandosi in avanti, per compiere azioni come leggere un libro ecc. e che non riescono a muoversi in autonomia a causa di un joystick non ergonomico. Il progetto aiuta l'utente a mantenere una posa ottimale e di controllare la sedia a rotelle indipendentemente. Il tavolino, dotato di un piano reclinabile, consente di portare il libro/tablet più vicino all'utente, permettendogli di mantenere la schiena dritta; i poggiagomiti evitano di portare le braccia troppo indietro; il supporto per il joystick, customizzato per l'utente, permette di avere una presa migliore sul comando.
